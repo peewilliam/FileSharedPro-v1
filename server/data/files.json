@@ -1,0 +1,56 @@
+{
+  "files": [
+    {
+      "id": "1",
+      "name": "Relatório Mensal.pdf",
+      "size": 3355443,
+      "type": "application/pdf",
+      "downloads": 28,
+      "code": "ABC123",
+      "shared": true,
+      "favorite": true,
+      "deleted": false,
+      "createdAt": "2024-01-28T21:12:06.238Z",
+      "userId": "1735420326252"
+    },
+    {
+      "id": "2", 
+      "name": "Imagens Projeto.zip",
+      "size": 16492674,
+      "type": "application/zip",
+      "downloads": 12,
+      "code": "XYZ789",
+      "shared": false,
+      "favorite": false,
+      "deleted": false,
+      "createdAt": "2024-01-25T21:12:06.238Z",
+      "userId": "1735420326252"
+    },
+    {
+      "id": "3",
+      "name": "Apresentação.pptx",
+      "size": 2097152,
+      "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "downloads": 5,
+      "code": "DEF456",
+      "shared": true,
+      "favorite": false,
+      "deleted": false,
+      "createdAt": "2024-01-29T21:12:06.238Z",
+      "userId": "1735420326252"
+    },
+    {
+      "id": "4",
+      "name": "Backup Antigo.zip",
+      "size": 52428800,
+      "type": "application/zip",
+      "downloads": 0,
+      "code": "GHI789",
+      "shared": false,
+      "favorite": false,
+      "deleted": true,
+      "createdAt": "2023-12-25T21:12:06.238Z",
+      "userId": "1735420326252"
+    }
+  ]
+}
